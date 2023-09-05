@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Exercises for people getting into TypeScript",
   "scripts": {
-    "test": "test",
+    "test": "jest",
     "prettier": "prettier --write ."
   },
   "author": "lgaribaldi",
